@@ -3,9 +3,9 @@ Face Recognition from WebCam and Video Sources using Javascript, NodeJS and face
 
 Some of the Major technologies used:
 
-NodeJS
-ExpressJS
-JavaScript
+NodeJS 
+ExpressJS 
+JavaScript 
 Prerequisites to run the app in local environment
 
 Installed NodeJS
